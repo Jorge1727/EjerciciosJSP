@@ -3,12 +3,13 @@
 	flex-direction: column;
 	justify-content: center;
 	align-items: center;
+	text-align: center;
 }
 
 .tarrina{
 	display: flex;
 	flex-direction: column;
-	align-self: flex-end;
+	justify-content: end;
 	width: 500px;
 	height: 350px;
 	margin-top: 50px;
