@@ -4,7 +4,7 @@
 <html>
 <head>
 <meta charset="UTF-8">
-<link rel = "stylesheet" href="./style.css">
+<link rel = "stylesheet" href="./estiloDatosPersonales.css">
 <title>Datos personales con css</title>
 </head>
 <body>

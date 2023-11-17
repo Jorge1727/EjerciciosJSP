@@ -1,0 +1,18 @@
+body{
+	display: flex;
+	justify-content: center;
+	background-color: rgb(0, 128, 64);
+}
+
+.par{
+	background-color: black;
+	width: 80px;
+	height: 80px;
+}
+
+.impar{
+	background-color: white;
+	width: 80px;
+	height: 80px;
+}
+

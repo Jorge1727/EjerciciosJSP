@@ -1,0 +1,32 @@
+.contenedor{
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+}
+
+.tarrina{
+	display: flex;
+	flex-direction: column;
+	align-self: flex-end;
+	width: 500px;
+	height: 350px;
+	margin-top: 50px;
+	border: 10px solid rgb(112, 20, 89);
+	border-top: 0px;
+}
+
+.chocolate{
+	width: 100%;
+	background-color: rosybrown;
+}
+
+.fresa{
+	width: 100%;
+	background-color: lightpink;
+}
+
+.vainilla{
+	width: 100%;
+	background-color: lightgoldenrodyellow;
+}
